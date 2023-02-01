@@ -1,3 +1,3 @@
-# Ecomik store app
+# Laundry Basket Vendor App
 
-Ecomik e-commerce store/vendor side app.
+Laundry Basket Vendor App/vendor side app.
